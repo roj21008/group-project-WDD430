@@ -1,5 +1,10 @@
 # group-project-WDD430
 
+Team Members: 
+Luis Armando Rojas
+Alan Sanchez Zamora
+
+
 What is the purpose of the project?
 This project is to develop a virtual marketplace for artisans and crafters to showcase and sell their unique handcrafted items. 
 This webaplication fosters a thriving community of creators and consumers.
